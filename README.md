@@ -53,7 +53,7 @@ A vintage-themed web application that uses AI to identify books from bookshelf p
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/booksleuth.git
+   git clone https://github.com/rowesk/booksleuth.git
    cd booksleuth
    ```
 
